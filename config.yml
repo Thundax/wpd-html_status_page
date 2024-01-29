@@ -157,7 +157,7 @@ params:
   systems:
     - name: WPD Converter
       category: AWS West-1
-      link: https://ec2-52-53-51-153.us-west-1.compute.amazonaws.com
+      description: Converts .wpd Word Perfect files into HTML for previewing in the browser.
 
   # What date format to use?
   #
@@ -278,7 +278,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: This site is for status monitoring of LOMAN services and apps. Any notices will be posted here if maintanence or interuptions occured.
 
   # Tabs on homepage
   # Uncomment to enable.
