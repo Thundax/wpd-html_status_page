@@ -156,7 +156,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: WPD Converter
-      category: West Coast
+      category: AWS West-1
       link: https://ec2-52-53-51-153.us-west-1.compute.amazonaws.com
 
   # What date format to use?
